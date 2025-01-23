@@ -1,5 +1,5 @@
 # leaflet-challenge
-Module 15 homework
+Module 15 homework - Create an earthquake visualization using USGS data and open source maps.
 
 ## Prerequisites
 
@@ -13,6 +13,7 @@ Module 15 homework
 ## Maps
 [Website: opentopomap.org](https://opentopomap.org/?form=MG0AV3#map=3/33.21/-30.41)
 Attribution: © OpenStreetMap contributors (under ODbL) and SRTM | Map-rendering: © OpenTopoMap (CC-BY-SA).
+
 © Stadia Maps © OpenMapTiles © OpenStreetMap[_{{{CITATION{{{_3{Legally Required Attribution - Stadia Maps Documentation](https://docs.stadiamaps.com/attribution/)[_{{{CITATION{{{_1{Attributions - Stadia Maps](https://stadiamaps.com/attribution).
 
 © Stadia Maps © Stamen Design © OpenMapTiles © OpenStreetMap[_{{{CITATION{{{_3{Legally Required Attribution - Stadia Maps Documentation](https://docs.stadiamaps.com/attribution/)[_{{{CITATION{{{_4{maps.stamen.com](https://maps.stamen.com/).
@@ -20,6 +21,9 @@ Attribution: © OpenStreetMap contributors (under ODbL) and SRTM | Map-rendering
 © CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data)[_{{{CITATION{{{_3{Legally Required Attribution - Stadia Maps Documentation](https://docs.stadiamaps.com/attribution/).
 
 [Latitude/Longitude](https://stackoverflow.com/questions/13785466/default-center-on-united-states)
+
+## Markers
+[Leaflet Marker](https://github.com/Leaflet/Leaflet.markercluster)
 
 ## License
 
