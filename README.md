@@ -20,7 +20,13 @@ Attribution: © OpenStreetMap contributors (under ODbL) and SRTM | Map-rendering
 
 © CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data)[_{{{CITATION{{{_3{Legally Required Attribution - Stadia Maps Documentation](https://docs.stadiamaps.com/attribution/).
 
+## Coding
+
+Class examples - legend creation Night 2 activity 04 Par_SchoolDistrictChoropleth
+
 [Latitude/Longitude](https://stackoverflow.com/questions/13785466/default-center-on-united-states)
+
+[Legend/Marker Colors](https://www.w3schools.com/colors/colors_hex.asp)
 
 ## Markers
 [Leaflet Marker](https://github.com/Leaflet/Leaflet.markercluster)
