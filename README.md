@@ -22,7 +22,8 @@ Attribution: © OpenStreetMap contributors (under ODbL) and SRTM | Map-rendering
 
 ## Coding
 
-Class examples - legend creation Night 2 activity 04 Par_SchoolDistrictChoropleth
+Class examples - legend creation Night 2 activity 04 Par_SchoolDistrictChoropleth.
+Tutor Assistance - Utilized tutor help in adjusting style.css and index.html to amend formatting of legend.
 
 [Latitude/Longitude](https://stackoverflow.com/questions/13785466/default-center-on-united-states)
 
