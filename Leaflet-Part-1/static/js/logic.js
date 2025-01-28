@@ -71,7 +71,7 @@ d3.json(queryUrl).then(data => {
         `);
     });
     markers.addLayers(earthquakes);
-}); // Make sure this closing brace and parenthesis are added
+}); 
 
 // Create the Earthquake depth legend
 function createLegend() {
@@ -96,7 +96,7 @@ function createLegend() {
         return div;
     };
 
-    return legend.addTo(myMap);  // Ensure legend is added to the map
+    return legend.addTo(myMap);  // Adds the legend to the map with below line 103
 }
 
 // Call the createLegend function to add the legend to the map
